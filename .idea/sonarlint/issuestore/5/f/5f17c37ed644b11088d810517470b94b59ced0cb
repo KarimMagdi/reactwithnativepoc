@@ -1,0 +1,6 @@
+
+usquid:UselessImportCheck"NRemove this unused import 'com.facebook.react.bridge.ReactApplicationContext'.(œéËùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËôÍ¸ùÿÿÿÿ8ÑÁ½“•,
+Usquid:UselessImportCheck".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(À¬àÑşÿÿÿÿ
+lsquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ
